@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: '/hbk'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Hopkins Bookkeeping'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
